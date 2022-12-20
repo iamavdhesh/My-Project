@@ -1,8 +1,30 @@
 # My-Applications
 
-Hi Myself Avdhesh Kumar<br>I have more than 4+ years of experience in Software Application Development.
+Hi Myself Avdhesh Kumar<br>I have more than 6+ years of experience in Software Application Development.
 
-#### As you checked my curriculum Vitae there some project not mentioned.Please check my applications 
+#### As you checked my curriculum Vitae there some project not mentioned there.Please check my projects here 
+
+
+
+
+ ### Hive (Human Resource) (09-2019 - 06-2020)
+ * **Platform**: Java/Kotlin,spring boot 
+ * **Development IDE**: Intelij Idea 
+ * **Team**: 4 members
+ * **Description**: Worked on Exit management that is a complete module to manage the process of full and final settlement of an Employee.
+                    For the smooth Exit process, it helps manage all the Exit Activities and allows HR to create a full and final Checklist.
+                    Developed a 'Back To Office' solution that captures employee attendance during COVID 19 pandemic situation.
+                    Developed a Sam 'ChatBot' for better HR-related inquiries from employees.
+ * **URL**:   https://play.google.com/store/apps/details?id=com.airtel.acon
+ 
+ 
+ ### Nikon India (03/2019 - 07-2019)
+ * **Platform**: Java/Kotlin,spring boot 
+ * **Development IDE**: Intelij Idea 
+ * **Team**: 4 members
+ * **Description**: Add exciting feature related gift voucher on recently purchased cameras.
+                    Developed features related redeem gifts through different payment systems like Paytm, Google pay.
+ * **URL**: https://www.nikon.co.in/current-promotions
  
 
  ### MyVoice
